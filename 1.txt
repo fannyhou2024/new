@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 1
 add new line(commit in github)
+=======
+1
+add new line(no add/commit)
+>>>>>>> Stashed changes
